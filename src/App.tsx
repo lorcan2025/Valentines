@@ -43,7 +43,7 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Abey Sale bubbe Yes bol",
+      "What have I done to you?",
       "Sharam Karle thodi",
       "Click if u r gay",
       "DO NOT PRESS",
@@ -130,7 +130,7 @@ export default function Page() {
               style={{ width: "400x", height: "240px" }}
               src="https://media.tenor.com/6CeMWEhB-4MAAAAi/mimibubu.gif"
             />
-            <h1 className="text-container">Bubu Fudu ke bache maan jaa</h1>
+            <h1 className="text-container">Now you making me angry</h1>
             <div>
               <button
                 className={"yes-button"}
